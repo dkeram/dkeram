@@ -15,9 +15,6 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=M1ts0ul4S)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=m1ts0ulas&icon=0&color=0)](https://visitcount.itsvg.in)
 
