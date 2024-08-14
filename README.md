@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Logistics Employee<br>👯 I’m looking to entry level full stack developer position<br>🌱 I’m currently learning python (django, flask), postgreSQL , HTML , CSS , JS (JQuery , React) , Bootstrap<br>
+🔭 I’m currently working as Logistics Employee<br>👯 I’m looking to entry level full stack developer position<br>🌱 I’m currently learning C# (.NET) python (django, flask), postgreSQL , HTML , CSS , JS (JQuery , React) , Bootstrap<br>
 
 
 ## 🌐 Socials:
